@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to J.A.R.V.I.S.","text":"<p>This is your family assistant. Use the \"Chat\" tab to start interacting with it!</p>"},{"location":"jarvis/","title":"Chat with J.A.R.V.I.S.","text":"<p>User:  Mode:  Model: </p> <p> Send</p>"}]}
