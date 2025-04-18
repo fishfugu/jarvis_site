@@ -2,4 +2,4 @@
 
 ## Front-end
 
-The JARVI front-end
+The JARVIS front-end
