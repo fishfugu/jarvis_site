@@ -1,0 +1,9 @@
+site_name: JARVIS Family Helper
+theme:
+  name: material
+  features:
+    - navigation.top
+    - navigation.tabs
+nav:
+  - Home: index.md
+  - Chat: jarvis.md
