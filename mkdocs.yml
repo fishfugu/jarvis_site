@@ -1,6 +1,8 @@
 site_name: JARVIS Family Helper
 theme:
   name: material
+  palette:
+    primary: blue grey
   features:
     - navigation.top
     - navigation.tabs
